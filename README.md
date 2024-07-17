@@ -1,4 +1,4 @@
-Steps that follow to desin this website
+Steps that follow to design this website
 •Set Up Your Environment 
 •Design the HTML Structure
 •Add Style
